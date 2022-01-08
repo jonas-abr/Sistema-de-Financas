@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/jonas-abr/Sistema-de-Financas/blob/main/assets/foto-DevFinance.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
